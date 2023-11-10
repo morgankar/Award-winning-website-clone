@@ -43,8 +43,10 @@ gsap.from("#page1 h1", {
     opacity:0,
     delay: 0.5,
     stagger:0.2
+})
 
-
+gsap.from("#page1 vid-container", {
+    
 })
 
 
